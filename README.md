@@ -4,4 +4,5 @@ This repository contains repositories to various backend projects for the ALx So
 
 ## List of Projects
 - [0x00-pagination](./0x00-pagination) - project on pagination
-- [0x01-caching](./0x01-caching) - project o cachng
+- [0x01-caching](./0x01-caching) - project on caching
+- [0x02-i18n](./0x02-i18n) - project on 0x02-i18n
